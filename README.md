@@ -1,2 +1,2 @@
 # base_mongo
-base_mongo
+"mongodb://localhost:27017/meubanco"
